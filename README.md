@@ -1,29 +1,29 @@
-# howtouse-Github
+# A Project from Github for Devoloper Course (from BornToDev)
 Very first project about using Github
 
 # First Update
 Try to use README.md for fIsRt tImE
 
-# Readme.so
+## Readme.so
 woah, below here is README.md form from website readme.so 
 
-# Project Title
+### Project Title
 
 A brief description of what this project does and who it's for
 
 
-## FAQ
+#### FAQ
 
-#### Question 1
+##### Question 1
 
 Answer 1
 
-#### Question 2
+##### Question 2
 
 Answer 2
 
 
-## Installation
+### Installation
 
 Install my-project with npm
 
